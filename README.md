@@ -1,1 +1,1 @@
-
+> Ativa/desativa o sensor_privacy (câmera e microfone) via botão de Ação no KernelSU. Detecta automaticamente o código de serviço conforme a versão do Android (10 a 16).
