@@ -1,5 +1,4 @@
 id=TurnOffSensors
 name=Turn Off Sensors
 author=WhoFoss
-description=Automatically turn off device sensors on boot
-updateJson=
+description=Ativa/desativa o sensor_privacy (câmera e microfone) via botão de Ação no KernelSU. Detecta automaticamente o código de serviço conforme a versão do Android (10 a 16).
